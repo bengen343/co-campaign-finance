@@ -131,7 +131,6 @@ dmypy.json
 # Large files
 *.zip
 *.xlsx
-*.csv
 contributions/
 expenditures/
 loans/
