@@ -131,9 +131,9 @@ dmypy.json
 # Large files
 *.zip
 *.xlsxpip 
-contributions/
-expenditures/
-loans/
+contribution/
+expenditure/
+loan/
 
 # Secrets
 *.json
